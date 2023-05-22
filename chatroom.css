@@ -1,0 +1,11 @@
+.style{
+    background-color: rgb(255, 0, 225);
+    padding: 10px;
+    padding-top: 10px;
+    border-radius: 20px;
+    width: 60%;
+}
+#roomjoin{
+ background-image: linear-gradient(90deg, #261ebe 0%, #1a1aff 35%, #00d4ff 100%);;
+height: 100px;
+}
